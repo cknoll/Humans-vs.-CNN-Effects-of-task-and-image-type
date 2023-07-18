@@ -10,7 +10,6 @@ Do humans and CNN attend to similar areas during scene classification? And how d
 - the procedures for extracting attention maps from humans and CNN
 - statistical evaluation e.g. for calculating dice scores.
 
----
 
 [^1]: Note that, while the architecture of the CNN model consists only of some 100 lines of Python code, the actual weights of the trained model is too big to publish here. Please contact us if you need the trained model for your research.
 
