@@ -3,7 +3,7 @@
 
 ## Summary
 
-Do humans and CNN attend to similar areas during scene classification? And how does this depend on the task used to elicit human attention maps? These questions were addressed in an article (link added soon) that compared attention maps generated from human eye movements, human manual selection, or so called e**x**plainable **a**rtificial **i**ntelligence (XAI). The present repository contains the respective source code:
+Do humans and CNN attend to similar areas during scene classification? And how does this depend on the task used to elicit human attention maps? These questions are addressed in the article **"Do humans and Convolutional Neural Networks attend to similar areas during scene classification: Effects of task and image type"** ([preprint](https://arxiv.org/abs/2307.13345)) that compares attention maps generated from human eye movements, human manual selection, or so called e**x**plainable **a**rtificial **i**ntelligence (XAI). The present repository contains the respective source code for that article:
 
 - the CNN architecture (ResNet-152)[^1]
 - the XAI method (Grad-CAM)
